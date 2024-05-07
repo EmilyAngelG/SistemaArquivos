@@ -1,0 +1,5 @@
+fraseGravar1
+fraseGravar2
+fraseGravar3
+fraseGravar4
+fraseGravar5

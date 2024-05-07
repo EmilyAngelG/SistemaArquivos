@@ -1,0 +1,5 @@
+fraseLeitura1
+fraseLeitura2
+fraseLeitura3
+fraseLeitura4
+fraseLeitura5
